@@ -1,4 +1,6 @@
-data/
+data/*
+!data/*.xlsx
+data/fwptr*
 venv/
 .venv/
 __pycache__/
