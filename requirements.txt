@@ -1,0 +1,10 @@
+pandas
+requests
+pdfplumber
+beautifulsoup4
+lxml
+rapidfuzz
+tqdm
+pdf2image
+pytesseract
+openpyxl
